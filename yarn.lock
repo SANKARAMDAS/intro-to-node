@@ -9,6 +9,13 @@ superheroes@^3.0.0:
   dependencies:
     unique-random-array "^2.0.0"
 
+supervillains@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/supervillains/-/supervillains-3.1.0.tgz#59e2a6129eb492ec5df474b578c6a15cd816d8cb"
+  integrity sha512-FQGzZ8bp8SgxXf25/Uo94qRxDtGvGFuDEqO8n5h2x0YDIKKmRHkZ1IIf/hIGhiAQH09deS/puTSPNwjQpNgTgw==
+  dependencies:
+    unique-random-array "^2.0.0"
+
 unique-random-array@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/unique-random-array/-/unique-random-array-2.0.0.tgz#9e639b1a9dc141e97350a6fc6f17da4b0717b1ad"
