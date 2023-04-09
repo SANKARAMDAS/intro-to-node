@@ -1,5 +1,5 @@
 const superheroes = require('superheroes');
 
-var mySuperHero = superheroes.random();
+let mySuperHero = superheroes.random();
 
 console.log(mySuperHero);
