@@ -17,6 +17,6 @@ app.get('/about', function (req,res){
 app.get('/reg', function (req,res){
     res.send('This is regist')
 })
-app.listen(8080, function(){
+app.listen(8800, function(){
     console.log('Server has started port 3300');
 });
